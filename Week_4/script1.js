@@ -1,6 +1,7 @@
 var x = 5;
 var y = 15;
 var z = x + y;
+
 document.write('<h1>' + "The value of Z is: " + z + '</h1>'); 
 console.log(z);
 console.log(typeof "-123.30");
