@@ -1,0 +1,16 @@
+{
+  "name": "week_9-express",
+  "version": "1.0.0",
+  "description": "Contoh Express JS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-status-codes": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoshii",
+  "license": "ISC"
+}
