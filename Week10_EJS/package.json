@@ -1,0 +1,28 @@
+{
+  "name": "c_webprog_535180066",
+  "version": "1.0.0",
+  "description": "Contoh EJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshinodayu/C_webprog_535180066.git"
+  },
+  "author": "Yoshii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshinodayu/C_webprog_535180066/issues"
+  },
+  "homepage": "https://github.com/yoshinodayu/C_webprog_535180066#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
