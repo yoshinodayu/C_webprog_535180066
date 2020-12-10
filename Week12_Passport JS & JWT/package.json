@@ -1,7 +1,6 @@
 {
   "name": "c_webprog_535180066",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "bcrypt": "^2.4.3",
@@ -11,6 +10,7 @@
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.1",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.18",
     "nodemon": "^2.0.6",
     "passport": "^0.4.1",
@@ -29,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/yoshinodayu/C_webprog_535180066/issues"
   },
-  "homepage": "https://github.com/yoshinodayu/C_webprog_535180066#readme"
+  "homepage": "https://github.com/yoshinodayu/C_webprog_535180066#readme",
+  "description": ""
 }
