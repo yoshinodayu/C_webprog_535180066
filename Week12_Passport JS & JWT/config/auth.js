@@ -4,6 +4,6 @@ module.exports = {
             return next();
         }
         req.flash("error_msg", "harap login untuk melihat halaman ini");
-        res.redirect("/users/login");
+        res.redirect("/user/login");
     },
 };
